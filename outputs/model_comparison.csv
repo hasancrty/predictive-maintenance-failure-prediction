@@ -1,0 +1,4 @@
+model,cv_roc_auc,cv_pr_auc,test_roc_auc,test_pr_auc
+Lojistik Regresyon,0.9315,0.4367,0.9413,0.4115
+Random Forest,0.9259,0.523,0.9744,0.7061
+Gradient Boosting,0.9249,0.5115,0.9611,0.6732

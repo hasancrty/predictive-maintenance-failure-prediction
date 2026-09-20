@@ -1,0 +1,5 @@
+,alarm_count,recall,precision,total_cost,cost_per_machine_day,saving_vs_no_maintenance
+Bakım yok (hiç alarm yok),0.0,0.0,0.0,358930.0,64.754,0.0
+Her gün alarm,5543.0,1.0,0.045,1662900.0,300.0,-1303970.0
+"Model, eşik = 0.50",270.0,0.681,0.633,195400.0,35.252,163530.0
+"Model, maliyet-optimal eşik = 0.32",362.0,0.777,0.539,188680.0,34.039,170250.0
